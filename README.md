@@ -1,1 +1,1 @@
-# InsightScan-Advancing-Diabetic-Retinopathy-Detection-for-Enhanced-Eye-Health
+# Advancing-Diabetic-Retinopathy-Detection-for-Enhanced-Eye-Health
